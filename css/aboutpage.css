@@ -1,0 +1,53 @@
+.about-header {
+  text-align: center;
+  color: whitesmoke;
+  transition: 3s;
+  line-height: 3cm;
+  background-color: #172238;
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+  top: 0;
+  opacity: 90%;
+  height: 3cm;
+  
+}
+
+.about-header em {
+  color: #f5a425;
+}
+
+.about-sub-heading h3 {
+  color: whitesmoke;
+  text-align: center;
+  font-size: larger;
+  border: 1px solid #f5a425;
+  font-size: x-large;
+  outline-width: 10px;
+
+}
+.about-footer{
+  background-color: #172238;
+  text-align: center;
+  bottom: 0;
+  height: 3cm;
+  color: whitesmoke;   
+}
+footer p {
+  margin-bottom: 0px;
+  padding: 25px 0px;
+  color: #fff;
+  font-size: 13px;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+.about-footer a :hover{
+  color: #f5a425;
+}
+
+
+body{
+  background-color: rgb(19, 41, 92);;
+}
